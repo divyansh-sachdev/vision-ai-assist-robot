@@ -1,0 +1,1 @@
+- **2026-04-05 19:31:50**: feat: implement moving average filter for noise suppression

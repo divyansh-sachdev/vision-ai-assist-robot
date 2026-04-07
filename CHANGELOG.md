@@ -1,3 +1,4 @@
 - **2026-04-05 19:31:50**: feat: implement moving average filter for noise suppression
 - **2026-04-06 15:14:10**: docs: clarify licensing and hardware bill of materials
 - **2026-04-06 18:36:35**: refactor: simplify state machine transition logic
+- **2026-04-07 19:13:39**: feat: add dynamic threshold adaptation for environmental drift

@@ -3,3 +3,4 @@
 - **2026-04-06 18:36:35**: refactor: simplify state machine transition logic
 - **2026-04-07 19:13:39**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-04-07 20:34:13**: fix: resolve floating point conversion precision issue
+- **2026-04-08 21:25:38**: perf: tune I2C bus frequency to 400kHz for sensor polling

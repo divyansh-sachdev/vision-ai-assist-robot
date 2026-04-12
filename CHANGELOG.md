@@ -5,3 +5,4 @@
 - **2026-04-07 20:34:13**: fix: resolve floating point conversion precision issue
 - **2026-04-08 21:25:38**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2026-04-10 16:54:43**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-04-12 11:50:28**: perf: optimize memory footprint by reducing ring buffer depth

@@ -8,3 +8,4 @@
 - **2026-04-12 11:50:28**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-04-12 15:22:31**: feat: add hardware failsafe watchdog timer routine
 - **2026-04-13 11:13:19**: docs: add circuit wiring pinout and power consumption profile
+- **2026-04-13 15:09:36**: fix: calibrate baseline sensor offset against reference multimeter

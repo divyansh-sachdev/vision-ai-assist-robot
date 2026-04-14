@@ -10,3 +10,4 @@
 - **2026-04-13 11:13:19**: docs: add circuit wiring pinout and power consumption profile
 - **2026-04-13 15:09:36**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-04-14 15:31:34**: feat: implement moving average filter for noise suppression
+- **2026-04-14 19:31:13**: feat: add dynamic threshold adaptation for environmental drift

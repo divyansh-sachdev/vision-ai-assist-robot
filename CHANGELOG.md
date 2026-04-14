@@ -9,3 +9,4 @@
 - **2026-04-12 15:22:31**: feat: add hardware failsafe watchdog timer routine
 - **2026-04-13 11:13:19**: docs: add circuit wiring pinout and power consumption profile
 - **2026-04-13 15:09:36**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-04-14 15:31:34**: feat: implement moving average filter for noise suppression

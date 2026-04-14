@@ -11,3 +11,4 @@
 - **2026-04-13 15:09:36**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-04-14 15:31:34**: feat: implement moving average filter for noise suppression
 - **2026-04-14 19:31:13**: feat: add dynamic threshold adaptation for environmental drift
+- **2026-04-14 21:49:11**: refactor: clean up debug logs and serial telemetry

@@ -13,3 +13,4 @@
 - **2026-04-14 19:31:13**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-04-14 21:49:11**: refactor: clean up debug logs and serial telemetry
 - **2026-04-17 17:24:34**: docs: clarify licensing and hardware bill of materials
+- **2026-04-20 18:36:11**: feat: add EEPROM configuration persistence for user settings

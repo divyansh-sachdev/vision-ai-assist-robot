@@ -18,3 +18,4 @@
 - **2026-04-21 20:06:35**: feat: add hardware failsafe watchdog timer routine
 - **2026-04-22 10:10:37**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-04-22 10:21:34**: fix: prevent buffer underflow during rapid sensor reads
+- **2026-04-23 16:53:36**: refactor: simplify state machine transition logic

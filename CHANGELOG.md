@@ -19,3 +19,4 @@
 - **2026-04-22 10:10:37**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-04-22 10:21:34**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-04-23 16:53:36**: refactor: simplify state machine transition logic
+- **2026-04-23 17:26:34**: test: benchmark inference execution speed on ESP32 dual-core

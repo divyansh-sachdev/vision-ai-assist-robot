@@ -23,3 +23,4 @@
 - **2026-04-24 19:06:44**: test: verify timer interrupt latency under heavy load
 - **2026-04-25 10:53:11**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-04-25 15:46:14**: fix: handle edge case timeout in sensor initialization loop
+- **2026-04-28 11:41:23**: refactor: clean up debug logs and serial telemetry

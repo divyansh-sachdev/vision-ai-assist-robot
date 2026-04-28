@@ -25,3 +25,4 @@
 - **2026-04-25 15:46:14**: fix: handle edge case timeout in sensor initialization loop
 - **2026-04-28 11:41:23**: refactor: clean up debug logs and serial telemetry
 - **2026-04-28 17:15:48**: refactor: clean up debug logs and serial telemetry
+- **2026-04-28 19:49:26**: perf: tune I2C bus frequency to 400kHz for sensor polling

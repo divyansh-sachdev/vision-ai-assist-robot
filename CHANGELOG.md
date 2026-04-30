@@ -27,3 +27,4 @@
 - **2026-04-28 17:15:48**: refactor: clean up debug logs and serial telemetry
 - **2026-04-28 19:49:26**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2026-04-29 16:11:47**: feat: add EEPROM configuration persistence for user settings
+- **2026-04-30 18:50:22**: feat: add hardware failsafe watchdog timer routine

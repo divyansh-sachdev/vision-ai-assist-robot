@@ -29,3 +29,4 @@
 - **2026-04-29 16:11:47**: feat: add EEPROM configuration persistence for user settings
 - **2026-04-30 18:50:22**: feat: add hardware failsafe watchdog timer routine
 - **2026-05-01 10:27:44**: docs: document serial protocol packet structure and error codes
+- **2026-05-01 11:55:46**: perf: optimize memory footprint by reducing ring buffer depth

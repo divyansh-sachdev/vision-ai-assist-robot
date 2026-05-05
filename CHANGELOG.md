@@ -33,3 +33,4 @@
 - **2026-05-01 16:48:48**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-05-02 11:37:31**: docs: document serial protocol packet structure and error codes
 - **2026-05-03 18:16:43**: test: verify timer interrupt latency under heavy load
+- **2026-05-05 19:34:37**: docs: update README setup instructions and dependencies

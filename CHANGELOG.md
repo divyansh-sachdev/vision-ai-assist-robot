@@ -39,3 +39,4 @@
 - **2026-05-14 20:27:37**: fix: resolve floating point conversion precision issue
 - **2026-05-19 11:17:28**: feat: add EEPROM configuration persistence for user settings
 - **2026-05-19 15:28:21**: perf: optimize memory footprint by reducing ring buffer depth
+- **2026-05-19 20:43:28**: perf: tune FreeRTOS task priority to eliminate frame drops

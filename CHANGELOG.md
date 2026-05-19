@@ -37,3 +37,4 @@
 - **2026-05-12 11:23:24**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-05-13 16:47:47**: fix: resolve floating point conversion precision issue
 - **2026-05-14 20:27:37**: fix: resolve floating point conversion precision issue
+- **2026-05-19 11:17:28**: feat: add EEPROM configuration persistence for user settings

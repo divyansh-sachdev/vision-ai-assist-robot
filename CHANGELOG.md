@@ -40,3 +40,4 @@
 - **2026-05-19 11:17:28**: feat: add EEPROM configuration persistence for user settings
 - **2026-05-19 15:28:21**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-05-19 20:43:28**: perf: tune FreeRTOS task priority to eliminate frame drops
+- **2026-05-20 10:08:45**: test: validate thermal stability over continuous 6-hour test run

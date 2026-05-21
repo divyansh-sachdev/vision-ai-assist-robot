@@ -42,3 +42,4 @@
 - **2026-05-19 20:43:28**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2026-05-20 10:08:45**: test: validate thermal stability over continuous 6-hour test run
 - **2026-05-20 16:49:18**: feat: implement moving average filter for noise suppression
+- **2026-05-21 11:05:46**: fix: handle edge case timeout in sensor initialization loop

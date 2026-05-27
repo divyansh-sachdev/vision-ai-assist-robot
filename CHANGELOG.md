@@ -43,3 +43,4 @@
 - **2026-05-20 10:08:45**: test: validate thermal stability over continuous 6-hour test run
 - **2026-05-20 16:49:18**: feat: implement moving average filter for noise suppression
 - **2026-05-21 11:05:46**: fix: handle edge case timeout in sensor initialization loop
+- **2026-05-27 15:54:43**: test: benchmark inference execution speed on ESP32 dual-core

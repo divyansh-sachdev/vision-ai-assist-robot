@@ -45,3 +45,4 @@
 - **2026-05-21 11:05:46**: fix: handle edge case timeout in sensor initialization loop
 - **2026-05-27 15:54:43**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-05-28 10:44:16**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2026-05-28 15:45:23**: perf: optimize memory footprint by reducing ring buffer depth

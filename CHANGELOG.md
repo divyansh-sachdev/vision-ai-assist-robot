@@ -47,3 +47,4 @@
 - **2026-05-28 10:44:16**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2026-05-28 15:45:23**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-05-29 20:09:20**: refactor: simplify state machine transition logic
+- **2026-06-01 16:55:50**: fix: handle edge case timeout in sensor initialization loop

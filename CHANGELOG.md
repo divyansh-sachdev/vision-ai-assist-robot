@@ -54,3 +54,4 @@
 - **2026-06-12 18:45:41**: fix: handle edge case timeout in sensor initialization loop
 - **2026-06-15 19:23:35**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-06-15 20:07:39**: docs: update README setup instructions and dependencies
+- **2026-06-16 19:31:13**: feat: add dynamic threshold adaptation for environmental drift

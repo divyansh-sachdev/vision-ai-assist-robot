@@ -60,3 +60,4 @@
 - **2026-06-20 19:12:19**: feat: implement low-power light sleep mode during idle intervals
 - **2026-06-22 16:31:40**: fix: handle edge case timeout in sensor initialization loop
 - **2026-06-22 19:20:39**: feat: add EEPROM configuration persistence for user settings
+- **2026-06-23 11:22:36**: refactor: simplify state machine transition logic

@@ -62,3 +62,4 @@
 - **2026-06-22 19:20:39**: feat: add EEPROM configuration persistence for user settings
 - **2026-06-23 11:22:36**: refactor: simplify state machine transition logic
 - **2026-06-23 17:55:42**: perf: optimize memory footprint by reducing ring buffer depth
+- **2026-06-26 20:35:32**: refactor: simplify state machine transition logic

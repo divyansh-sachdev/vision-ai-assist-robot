@@ -64,3 +64,4 @@
 - **2026-06-23 17:55:42**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-06-26 20:35:32**: refactor: simplify state machine transition logic
 - **2026-06-29 18:47:19**: test: benchmark inference execution speed on ESP32 dual-core
+- **2026-07-04 11:26:44**: refactor: modularize signal processing functions into separate header

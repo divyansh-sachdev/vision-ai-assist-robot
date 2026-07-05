@@ -65,3 +65,4 @@
 - **2026-06-26 20:35:32**: refactor: simplify state machine transition logic
 - **2026-06-29 18:47:19**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-07-04 11:26:44**: refactor: modularize signal processing functions into separate header
+- **2026-07-05 19:39:12**: fix: calibrate baseline sensor offset against reference multimeter

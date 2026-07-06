@@ -66,3 +66,4 @@
 - **2026-06-29 18:47:19**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-07-04 11:26:44**: refactor: modularize signal processing functions into separate header
 - **2026-07-05 19:39:12**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-07-06 15:52:15**: docs: add circuit wiring pinout and power consumption profile

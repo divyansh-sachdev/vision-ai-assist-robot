@@ -69,3 +69,4 @@
 - **2026-07-06 15:52:15**: docs: add circuit wiring pinout and power consumption profile
 - **2026-07-09 16:27:33**: refactor: simplify state machine transition logic
 - **2026-07-15 21:24:50**: docs: add circuit wiring pinout and power consumption profile
+- **2026-07-17 10:47:35**: refactor: modularize signal processing functions into separate header

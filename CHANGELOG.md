@@ -72,3 +72,4 @@
 - **2026-07-17 10:47:35**: refactor: modularize signal processing functions into separate header
 - **2026-07-17 16:05:46**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2026-07-22 15:43:32**: docs: clarify licensing and hardware bill of materials
+- **2026-07-23 14:45:16**: perf: optimize memory footprint by reducing ring buffer depth
